@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ganesh Automation Technical Lab">
+    <test verbose="2" preserve-order="true" name="testNGExample">
+        <classes>
+<!--            <class name="mavenexample.MavenExample">-->
+<!--                <methods>-->
+<!--                    <include name="runFirstMethods"/>-->
+<!--                    <include name="runFirstMethod"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="testng.annoration.AnnotationExample">-->
+<!--                <methods>-->
+<!--                    <include name="runFirstMethod1"/>-->
+<!--                    <include name="runFirstMethod2"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="testng.annoration.InvocationCountExample">-->
+<!--                <methods>-->
+<!--                    <include name="invocationCountMethod"/>-->
+<!--                    <include name="descriptionExample"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="testng.depends.DependsOnMethodsExample">-->
+<!--                <methods>-->
+<!--                    <include name="dependsExample1"/>-->
+<!--                    <include name="dependsExample2"/>-->
+<!--                    <include name="dependsExample3"/>-->
+<!--                    <include name="dependsExample4"/>-->
+<!--                    <include name="dependsExample5"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="testng.priority.PriorityExample">-->
+<!--                <methods>-->
+<!--                    <include name="testA"/>-->
+<!--                    <include name="testD"/>-->
+<!--                    <include name="testB"/>-->
+<!--                    <include name="testC"/>-->
+<!--                    <include name="testZ"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+        </classes>
+    </test>
+</suite>
