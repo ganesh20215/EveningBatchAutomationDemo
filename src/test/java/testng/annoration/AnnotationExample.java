@@ -26,6 +26,7 @@ public class AnnotationExample {
     @AfterMethod
     public void runAfter(){
         System.out.println("After Method is running");
+        System.out.println("Hello Good Morning");
     }
 
     @AfterClass
