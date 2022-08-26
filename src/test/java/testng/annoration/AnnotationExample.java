@@ -7,6 +7,7 @@ public class AnnotationExample {
     public void runBeforeClass(){
         System.out.println("Run Before class");
         System.out.println("Hello");
+        System.out.println("Hello");
     }
 
     @BeforeMethod
